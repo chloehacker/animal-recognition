@@ -10,6 +10,6 @@ To install:
 
 run this code in your terminal
 
-```git copy ```
+```git clone ...... ```
 
 Explanation of contents of each notebook:

@@ -5,10 +5,11 @@ This (series of) annotated notebook will take you through the steps of importing
 The goal of this project is to lead anyone who is interested through a diverse and in depth analysis of ridership data in conjunction with momentous events that have occured in the recent past regarding climate change issues.
 
 
-(1) the name of your project
 
-(2) a short description of what it does
+To install:
 
-(3) installation instructions
+run this code in your terminal
 
-(4) instructions to find examples in your notebooks directory.
+```git copy ```
+
+Explanation of contents of each notebook:

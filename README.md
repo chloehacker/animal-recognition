@@ -13,3 +13,7 @@ run this code in your terminal
 ```git clone ...... ```
 
 Explanation of contents of each notebook:
+
+### Mapping Ridership tutorial
+
+This notebook details two types of plotly maps used to visual data and make it interactive.

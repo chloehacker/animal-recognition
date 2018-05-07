@@ -14,10 +14,13 @@ run this code in your terminal
 
 Explanation of contents of each notebook:
 
-### Mapping Ridership tutorial
+### Mapping Ridership Tutorial
 
-This notebook details two types of plotly maps used to visual data and make it interactive.
+This [notebook](http://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Mapping%20Ridership%20tutorial.ipynb) details two types of plotly maps used to visual data and make it interactive.
 
-### Bus
+### Graphing Ridership Tutorial
 
-https://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Graphing%20ridership%20tutorial.ipynb
+This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Graphing%20ridership%20tutorial.ipynb) details how to graph the average daily ridership for all of the data.
+
+### Average Ridership Analysis
+

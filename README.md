@@ -4,15 +4,13 @@ This series of annotated notebooks will take you through the steps of importing 
 
 The goal of this project is to lead anyone who is interested through a diverse and in depth analysis of ridership data in conjunction with momentous events that have occured in the recent past regarding climate change issues. There are also analyses that relate to ridership and climate.
 
-
-
-To install:
+**To install:**
 
 run this code in your terminal
 
 ```git clone https://github.com/chloehacker/public-transportation-ridership-and-climate-data.git ```
 
-Explanation of contents of each notebook:
+Explanation of contents of each notebook is below. If you would just like to view the notebook, click on the hyperlinked notebook and you can explore their contents.
 
 ### Mapping Ridership Tutorial
 

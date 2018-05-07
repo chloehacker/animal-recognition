@@ -10,7 +10,7 @@ To install:
 
 run this code in your terminal
 
-```git clone ...... ```
+```git clone https://github.com/chloehacker/public-transportation-ridership-and-climate-data.git ```
 
 Explanation of contents of each notebook:
 
@@ -23,4 +23,5 @@ This [notebook](http://nbviewer.jupyter.org/github/chloehacker/public-transporta
 This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Graphing%20ridership%20tutorial.ipynb) details how to graph the average daily ridership for all of the data.
 
 ### Average Ridership Analysis
+
 

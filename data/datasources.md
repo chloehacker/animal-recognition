@@ -4,4 +4,4 @@
 
 [Bus ridership](https://geocenter-valleymetro.opendata.arcgis.com/datasets?t=Bus%20Ridership)
 
-[Daily climate data](http://w2.weather.gov/climate/xmacis.php?wfo=psr)
+[Daily weather data](http://w2.weather.gov/climate/xmacis.php?wfo=psr)

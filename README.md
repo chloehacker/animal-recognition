@@ -25,3 +25,7 @@ This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transport
 ### Average Ridership Analysis
 
 This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Average%20Ridership%20Analysis.ipynb) details how to visualize average ridership and analyze the nuances that your data might present.
+
+### Weather Data Analysis
+
+This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Weather%20Data%20Analysis.ipynb) details how to graph average weather data for one month so it can be utilized for comparisons to other datasets.

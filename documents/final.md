@@ -1,6 +1,9 @@
 Chloe Hacker
+
 Final Essay
+
 PDSB 2018
+
 
 **Now that you have seen many full research projects saved online as GitHub repositories do you plan to use GitHub 
 for your future projects as a way to store code and data in the cloud and to share your progress with others?**
@@ -17,4 +20,4 @@ My project accomplished some of the goals that I set out for myself. I think I h
 program or pipeline for data analysis? What skills do you think you need to work on further, and where would 
 you look to find more information about learning these skills?**
 
-I feel like I have a pretty solid baseline knowledge that is needed to perform data analysis in Python/to wrtie me own program but I think I am lacking in experience. And lacking in experience troubleshooting problems that arise. I need to work on writing my own class objects to perform a function. I know this is something we did a lot in class but I think because the data we were writing it for was unfamiliar to me it made it difficult to process and understand it completely. Using a more relatable data set I think would set me up for a better understanding of all the moving parts to defining a class object.I feel like I could look to github or any of the stackoverflow pages to get help with Python.
+I feel like I have a pretty solid baseline knowledge that is needed to perform data analysis in Python/to wrtie me own program but I think I am lacking in experience. And lacking in experience troubleshooting problems that arise. I need to work on writing my own class objects to perform a function. I know this is something we did a lot in class but I think because the data we were writing it for was unfamiliar to me it made it difficult to process and understand it completely. Using a more relatable data set I think would set me up for a better understanding of all the moving parts to defining a class object. I feel like I could look to github or any of the stackoverflow pages to get help with Python.

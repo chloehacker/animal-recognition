@@ -27,3 +27,6 @@ This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transport
 ### Weather Data Analysis
 
 This [notebook](https://nbviewer.jupyter.org/github/chloehacker/public-transportation-ridership-and-climate-data/blob/master/notebooks/Weather%20Data%20Analysis.ipynb) details how to graph average weather data for one month so it can be utilized for comparisons to other datasets.
+
+
+With this series of notebooks, I hope you are able to look into multiple types of data, and multiple representations of data, and be able to make informed statements regarding ridership and weather, and ridership and public perception of climate change. There is still work to be done to combine all of these tools into one comprehensive toolkit, but with these notebooks, there is a foundation for analyzing this topic across multiple cities that are of interest to you.

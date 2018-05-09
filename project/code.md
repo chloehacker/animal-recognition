@@ -1,1 +1,1 @@
-this is where your code goes
+All of my code is contained within the four jupyter notebooks that are available under the "notebooks" folder. Please access the code for my project at that location, also hyperlinked through my README.md. Thank you!
